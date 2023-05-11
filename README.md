@@ -1,4 +1,4 @@
-# Tugas-2-UKPL
+# PROGRAM INPUT DATA NILAI AKHIR MAHASISWA
 <h3>State Transition Testing : </h3>
 <ul type="circle">
   <li>Ketika masuk ke program, user akan diharuskan untuk login dengan menggunakan username "user" dan password "pass".</li>
@@ -21,4 +21,3 @@
   <li>Data yang tersimpan bersifat temporary atau sementara, sehingga ketika program dijalankan ulang data yang sebelumnya akan hilang</li>
   <li>Data akan tertimpa jika user mencoba untuk menginputkan untuk ke 2 kali dan seterusnya, akibatnya user hanya memiliki 1 waktu untuk menginputkan data sekaligus, apabila user mencoba menambahkan data lagi, data sebelumnya akan direwrite dengan data yang baru</li>
   <li>Program tidak dinamis, dan dibuat statis hanya dapat digunakan untuk menginput 11 data maksimal</li>
-  <li> </li>
